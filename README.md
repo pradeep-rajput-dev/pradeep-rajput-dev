@@ -20,6 +20,29 @@
 
 <div align="center">
 
+# 📊 GitHub Dashboard
+
+<img src="https://github-readme-stats.vercel.app/api?username=pradeep-rajput-dev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=050014&title_color=F72585&text_color=E0AAFF&icon_color=00F5D4" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-rajput-dev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" height="175"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=pradeep-rajput-dev&theme=highcontrast&hide_border=true&background=050014&ring=F72585&fire=00F5D4&currStreakLabel=FFBE0B" />
+
+</div>
+
+---
+
+<div align="center">
+
+
+
+---
+
+
+
+<div align="center">
+
 ## 🌈 WHO AM I?
 
 <table>
@@ -140,23 +163,6 @@ Bots • APIs • Web Apps • Automation • Data • New Ideas
 </table>
 
 ---
-
-<div align="center">
-
-# 📊 GitHub Dashboard
-
-<img src="https://github-readme-stats.vercel.app/api?username=pradeep-rajput-dev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=050014&title_color=F72585&text_color=E0AAFF&icon_color=00F5D4" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-rajput-dev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" height="175"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=pradeep-rajput-dev&theme=highcontrast&hide_border=true&background=050014&ring=F72585&fire=00F5D4&currStreakLabel=FFBE0B" />
-
-</div>
-
----
-
-<div align="center">
 
 ## 🧠 CURRENTLY LEVELING UP
 
