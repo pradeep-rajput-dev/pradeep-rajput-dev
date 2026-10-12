@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C9FF&height=210&section=header&text=Pradeep%20Rajput&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Backend%20%7C%20Automation%20%7C%20Builder&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,20:240046,40:7209B7,60:F72585,80:4CC9F0,100:00F5D4&height=210&section=header&text=Pradeep%20Rajput&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Backend%20%7C%20Automation%20%7C%20Builder&descAlignY=60&descSize=18" width="100%"/>
 
 # ⚡ Hey! I'm **Pradeep Rajput**
 
 ### 🐍 Python Developer • 🤖 Automation Builder • 🌐 Backend Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7F00FF&center=true&vCenter=true&width=650&lines=Building+useful+things+with+Python+%F0%9F%90%8D;Telegram+Bots+%26+Automation+%F0%9F%A4%96;Backend+%26+API+Development+%F0%9F%8C%90;Learning+Data+Analytics+%26+Data+Science+%F0%9F%93%8A;Turning+ideas+into+working+products+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=F72585&center=true&vCenter=true&width=650&lines=Building+useful+things+with+Python+%F0%9F%90%8D;Telegram+Bots+%26+Automation+%F0%9F%A4%96;Backend+%26+API+Development+%F0%9F%8C%90;Learning+Data+Analytics+%26+Data+Science+%F0%9F%93%8A;Turning+ideas+into+working+products+%F0%9F%9A%80" />
 
 <br>
 
@@ -73,7 +73,7 @@ I'm **Pradeep Rajput**, a developer from India working mainly with **Python, bac
 <td width="50%">
 
 ## 🎯 Mock Test App
-### <img src="https://img.shields.io/badge/EdTech-7F00FF?style=flat-square"/>
+### <img src="https://img.shields.io/badge/EdTech-F72585?style=flat-square"/>
 
 A student-focused platform for **mock tests, exams, subjects and learning**.
 
@@ -85,7 +85,7 @@ A student-focused platform for **mock tests, exams, subjects and learning**.
 <td width="50%">
 
 ## 🛒 CPrice
-### <img src="https://img.shields.io/badge/Web%20%26%20API-00C9FF?style=flat-square"/>
+### <img src="https://img.shields.io/badge/Web%20%26%20API-00F5D4?style=flat-square"/>
 
 A product **price comparison** project designed to make online shopping research easier.
 
@@ -107,7 +107,7 @@ Web interface for a Telegram-based **content saving & automation ecosystem**.
 <td width="50%">
 
 ## 🎬 Telegram AI Shorts
-### <img src="https://img.shields.io/badge/Automation-FF006E?style=flat-square"/>
+### <img src="https://img.shields.io/badge/Automation-FFBE0B?style=flat-square"/>
 
 Experiments around **short-form video and Telegram automation workflows**.
 
@@ -119,7 +119,7 @@ Experiments around **short-form video and Telegram automation workflows**.
 <td width="50%">
 
 ## ☁️ Drive → Telegram
-### <img src="https://img.shields.io/badge/Automation-00B894?style=flat-square"/>
+### <img src="https://img.shields.io/badge/Automation-00F5D4?style=flat-square"/>
 
 Automation for moving files and content between **Google Drive and Telegram**.
 
@@ -129,7 +129,7 @@ Automation for moving files and content between **Google Drive and Telegram**.
 <td width="50%">
 
 ## 🚀 More Experiments
-### <img src="https://img.shields.io/badge/More%20Coming-FFB000?style=flat-square"/>
+### <img src="https://img.shields.io/badge/More%20Coming-FB5607?style=flat-square"/>
 
 Bots • APIs • Web Apps • Automation • Data • New Ideas
 
@@ -145,12 +145,12 @@ Bots • APIs • Web Apps • Automation • Data • New Ideas
 
 # 📊 GitHub Dashboard
 
-<img src="https://github-readme-stats.vercel.app/api?username=pradeep-rajput-dev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pradeep-rajput-dev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=050014&title_color=F72585&text_color=E0AAFF&icon_color=00F5D4" height="175"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-rajput-dev&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" height="175"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=pradeep-rajput-dev&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=pradeep-rajput-dev&theme=highcontrast&hide_border=true&background=050014&ring=F72585&fire=00F5D4&currStreakLabel=FFBE0B" />
 
 </div>
 
@@ -160,12 +160,12 @@ Bots • APIs • Web Apps • Automation • Data • New Ideas
 
 ## 🧠 CURRENTLY LEVELING UP
 
-<img src="https://img.shields.io/badge/Python-7F00FF?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-00C9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-FF006E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-F72585?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-00F5D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-FFBE0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-00F5D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/APIs-FFB000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-FF4D6D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-FB5607?style=for-the-badge"/>
 
 </div>
 
@@ -204,6 +204,6 @@ Bots • APIs • Web Apps • Automation • Data • New Ideas
 
 ### ⚡ **BUILD • LEARN • BREAK • FIX • REPEAT**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7F00FF,100:FF006E&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,25:00BBF9,50:7209B7,75:F72585,100:FFBE0B&height=120&section=footer" width="100%"/>
 
 </div>
